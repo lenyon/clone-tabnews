@@ -1,0 +1,2 @@
+.next
+#serve para ignorar o arquivo next, como estou usando uma versao mais recente do prettier essa funcionalidade ja vem com ignorar arquivo do gitignore. Nao custa nada deixar o salvo o lembrete.
